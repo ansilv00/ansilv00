@@ -1,4 +1,4 @@
-## Hi <3
+## <3
 
 <div align="center">
   <a href="https://git.io/typing-svg">
