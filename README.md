@@ -2,6 +2,8 @@
 
 **ansilv00/ansilv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Kirby Gif](https://github.com/user-attachments/assets/e0a3d01b-4b44-48db-acf7-54fe634ae4c4)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
