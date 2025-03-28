@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-/-- 🔭 Atualmente estou trabalhando em
+🔭 Atualmente estou trabalhando em
 🌱 Atualmente estou aprendendo php
 👯 Estou procurando colaborar em 
 🤔 Estou procurando ajuda com...
