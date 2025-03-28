@@ -1,4 +1,5 @@
 ## Hi <3
+Meu nome é Anna, tenho 22 anos e sou uma pessoa surda. Amo criar sites, desenvolver lógicas de programação e sou apaixonado por tecnologia.
 
 **ansilv00/ansilv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
