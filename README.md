@@ -17,8 +17,6 @@ Meu nome é Anna, tenho 22 anos e sou uma pessoa surda. Amo criar sites, desenvo
 🎯 Focado em HTML, CSS/SCSS, JavaScript e aprendendo php no momento
 
 
-**ansilv00/ansilv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Kirby Gif](https://github.com/user-attachments/assets/e0a3d01b-4b44-48db-acf7-54fe634ae4c4)
 
 
