@@ -2,16 +2,6 @@
 
 **ansilv00/ansilv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-🔭 Atualmente estou trabalhando em
-🌱 Atualmente estou aprendendo php
-👯 Estou procurando colaborar em 
-🤔 Estou procurando ajuda com...
-💬 Pergunte-me sobre...
-📫 Como entrar em contato comigo: ...
-😄 Pronomes: ela/dela
-⚡ Curiosidade: ...
 
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
