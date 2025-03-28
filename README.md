@@ -6,8 +6,6 @@
   </a>
 </div>
 
-Meu nome é Anna, tenho 22 anos e sou uma pessoa surda. Amo criar sites, desenvolver lógicas de programação e sou apaixonado por tecnologia.
-
 👩‍💻 Um pouco sobre mim
 
 🎓 Atualmente estou cursando Tecino em Informática para Web
