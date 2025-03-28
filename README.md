@@ -6,15 +6,16 @@
   </a>
 </div>
 
+Meu nome é Anna, tenho 22 anos e sou uma pessoa surda. Amo criar sites, desenvolver lógicas de programação e sou apaixonado por tecnologia.
+
 👩‍💻 Um pouco sobre mim
 
-🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+🎓 Atualmente estou cursando Tecino em Informática para Web
 
 ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente
 
-🎯 Focado em HTML, CSS/SCSS, JavaScript e aprendendo React com Next.js no momento
+🎯 Focado em HTML, CSS/SCSS, JavaScript e aprendendo php no momento
 
-Meu nome é Anna, tenho 22 anos e sou uma pessoa surda. Amo criar sites, desenvolver lógicas de programação e sou apaixonado por tecnologia.
 
 **ansilv00/ansilv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
