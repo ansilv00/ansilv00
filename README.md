@@ -8,7 +8,7 @@
 
 👩‍💻 Um pouco sobre mim
 
-🎓 Atualmente estou cursando Tecino em Informática para Web
+🎓 Atualmente estou cursando técnico em Informática para Web
 
 ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente
 
