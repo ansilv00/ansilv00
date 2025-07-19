@@ -15,7 +15,7 @@
 ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack  
 🎯 Focada em HTML, CSS/SCSS, JavaScript e aprendendo PHP no momento
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study.gif" href="https://i.pinimg.com/736x/50/a0/6d/50a06dfa2614909f7def5ef2f61a701d.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
