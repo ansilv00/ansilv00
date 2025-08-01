@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="[https://i.pinimg.com/originals/a6/1a/83/a61a839aaf15d5bd141a1363b544920d.gif](https://i.pinimg.com/originals/28/c3/7f/28c37f0e2604ac5a0ca6dde6b1b5881e.gif)"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/28/c3/7f/28c37f0e2604ac5a0ca6dde6b1b5881e.gif"  />
 
 
 ###
